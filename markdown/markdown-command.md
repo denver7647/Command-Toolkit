@@ -1,8 +1,8 @@
 # MARKDOWN
 
 <br>
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+[!NOTE]
+Useful information that users should know, even when skimming content.
 # 목차
 1. [마크다운(MARKDOWN)이란](#마크다운markdown이란)
 
