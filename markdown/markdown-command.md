@@ -18,6 +18,7 @@
 3. 기타
     - [이모지](#이모지)
     - [color 색상](#color-색상)
+    - [사이트 모음](#사이트-모음)
 
 <br><br>
 
@@ -522,6 +523,8 @@ background color
 <span style="background-color:#F5F5F5"> 회색형광펜 </span> <br>
 <span style="background-color:#DCFFE4"> 초록형광펜 </span> <br>
 
+<br><br>
+
 ## 사이트 모음
 <br>
 
@@ -530,4 +533,4 @@ background color
  	- [jbt.github.io](https://jbt.github.io/markdown-editor/ , "jbt.github.io")
 
 - 이모지
-	-[webfx](https://www.webfx.com/tools/emoji-cheat-sheet/, "webfx")
+	- [webfx](https://www.webfx.com/tools/emoji-cheat-sheet/, "webfx")
