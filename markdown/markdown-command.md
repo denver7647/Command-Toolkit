@@ -376,12 +376,12 @@ _**혼합하여** <U>다양하게</U> ~~사용하기~~_
 **\```** 옆에 JAVA , MARKDOWN 등 표시 가능
 
 ``` MARKDOWN
-``` JAVASCRIPT
+``` javascript
 function test() {
  console.log("Hello world");
 }
+\```
 ```
-
 
 ``` javascript
 function test() {
