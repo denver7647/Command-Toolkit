@@ -529,8 +529,8 @@ background color
 <br>
 
 - markdown 미리보기
-	- [stackedit](https://stackedit.io/app# , "stackedit")
- 	- [jbt.github.io](https://jbt.github.io/markdown-editor/ , "jbt.github.io")
+	- [stackedit](https://stackedit.io/app#  "stackedit")
+ 	- [jbt.github.io](https://jbt.github.io/markdown-editor/  "jbt.github.io")
 
 - 이모지 
-	- [webfx](https://www.webfx.com/tools/emoji-cheat-sheet/ , "webfx")
+	- [webfx](https://www.webfx.com/tools/emoji-cheat-sheet/ "webfx")
