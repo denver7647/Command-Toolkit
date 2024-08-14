@@ -83,7 +83,7 @@ This is H2
 
 <br><br>
 
-## Horizontal Rules 수평선**
+## **Horizontal Rules 수평선**
 
 -, _ 또는 *을 3개 이상 작성하여 표현 <br>
 -의 경우 header로 인식할 수 있으니 주의!!!
@@ -110,10 +110,10 @@ This is H2
 기울여 쓰기, 두껍게 쓰기 , 취소선 등 표현
 
 ``` MARKDOWN
-_italic 기울인 글씨_ <br
+_italic 기울인 글씨_ 
 *italic 기울인 글씨*
 
-__bold 굵게, 굵은 글씨__ <br>
+__bold 굵게, 굵은 글씨__ 
 **bold 굵게, 굵은 글씨**
 
 ~~Strikethrough 텍스트~~
@@ -124,7 +124,7 @@ _**혼합하여** <U>다양하게</U> ~~사용하기~~_
 
 ```
 
-_italic 기울인 글씨_ <br
+_italic 기울인 글씨_ <br>
 *italic 기울인 글씨*
 
 __bold 굵게, 굵은 글씨__ <br>
@@ -532,5 +532,5 @@ background color
 	- [stackedit](https://stackedit.io/app# , "stackedit")
  	- [jbt.github.io](https://jbt.github.io/markdown-editor/ , "jbt.github.io")
 
-- 이모지
-	- [webfx](https://www.webfx.com/tools/emoji-cheat-sheet/, "webfx")
+- 이모지 
+	- [webfx](https://www.webfx.com/tools/emoji-cheat-sheet/ , "webfx")
