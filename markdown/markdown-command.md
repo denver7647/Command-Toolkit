@@ -1,8 +1,7 @@
 # MARKDOWN
 
 <br>
-[!NOTE]
-Useful information that users should know, even when skimming content.
+
 # 목차
 1. [마크다운(MARKDOWN)이란](#마크다운markdown이란)
 
@@ -46,7 +45,7 @@ Useful information that users should know, even when skimming content.
 
 <br>
 
-## **[Headers 헤더](#목차)**
+## **Headers 헤더**
 \#로 시작하는 텍스트로 h1, h2, h3, h4, h5, h6의 태그를 표현할 수 있습니다.
 
 ``` MARKDOWN
@@ -83,7 +82,7 @@ This is H2
 
 <br><br>
 
-## **[Horizontal Rules 수평선](#목차)**
+## Horizontal Rules 수평선**
 
 -, _ 또는 *을 3개 이상 작성하여 표현 <br>
 -의 경우 header로 인식할 수 있으니 주의!!!
@@ -105,7 +104,7 @@ This is H2
 -------------------
 <br> <br>
 
-## **[Emphasis 강조](#목차)**
+## **Emphasis 강조**
 
 기울여 쓰기, 두껍게 쓰기 , 취소선 등 표현
 
@@ -138,7 +137,7 @@ _**혼합하여** <U>다양하게</U> ~~사용하기~~_
 
 <br><br>
 
-## **[Blockquotes 인용](#목차)**
+## **Blockquotes 인용**
 \> 으로 시작하는 텍스트로 인용의 목적으로 사용 <br>
 ※**인용**이란 의미를 명확하게 하거나 인용되는 글의 주장을 뒷받침할 때,<br>     또는 인용되는 글에 대한 직접적인 정보를 제공하는 경우를 뜻함.
 
@@ -155,7 +154,7 @@ _**혼합하여** <U>다양하게</U> ~~사용하기~~_
 >>>3 depth
 
 <br><br>
-## **[Lists 목록](#목차)**
+## **Lists 목록**
 
 ### **순서가 없는 목록**
 
@@ -268,7 +267,7 @@ _**혼합하여** <U>다양하게</U> ~~사용하기~~_
 
 <br><br>
 
-## **[Backslash Escapes](#목차)**
+## **Backslash Escapes**
 
 특수문자를 표현할때, 문자 앞에 \\를 넣고 특수문자 이용
 
@@ -290,7 +289,7 @@ _**혼합하여** <U>다양하게</U> ~~사용하기~~_
 
 <br><br>
 
-## **[image 이미지](#목차)** 
+## **image 이미지** 
 
 이미지 앞에 \!를 붙여서 표현 <br>
 인라인 이미지 표현 : \!\[alt text\](/test.png) <br>
@@ -320,7 +319,7 @@ _**혼합하여** <U>다양하게</U> ~~사용하기~~_
 </a>
 
 <br><br>
-## **[Links (Anchor) 링크](#목차)**
+## **Links (Anchor) 링크**
 
 ``` MARKDOWN
 [Google](http://www.google.com "구글")
@@ -371,7 +370,7 @@ _**혼합하여** <U>다양하게</U> ~~사용하기~~_
 
 <br><br>
 
-## **[code blocks 코드 블럭](#목차)**
+## **code blocks 코드 블럭**
 간단한 코드는 코드 앞뒤로 **\`** 를 넣어서 표현. <br>
 또는 **\``` , \~~~** 넣어서 표현 <br>
 **\```** 옆에 JAVA , MARKDOWN 등 표시 가능
@@ -392,7 +391,7 @@ function test() {
 
 <br><br> 
 
-## **[check list 체크리스트](#목차)**
+## **check list 체크리스트**
 
 줄 앞에 - [x]를 써서 완료된 리스트 표시. <br>
 줄 앞에 - [ ]를 써서 미완료된 리스트 표시. <br>
@@ -408,7 +407,7 @@ function test() {
 
 <br><br>
 
-## **[Table 테이블](#목차)**
+## **Table 테이블**
 헤더와 셀을 구분할 때 3개 이상의 **- (hyphen/dash)** 기호가 필요합니다. <br>
 헤더 셀을 구분하면서 **: (Colons)** 기호로 셀(열/칸) 안에 내용을 정렬할 수 있습니다. <br>
 가장 좌측과 가장 우측에 있는 **| (vertical bar)** 기호는 생략 가능합니다. <br>
@@ -454,7 +453,7 @@ Left|Center|Right
 
 <br>
 
-## **[이모지](#목차)**
+## **이모지**
 **\: :** 사이에 이모지 관련 텍스트를 넣으면 사용 가능 <br>
 
 ``` MARKDOWN
@@ -467,11 +466,11 @@ Left|Center|Right
 :heart_eyes: : heart_eyes <br>
 :kissing_heart: : kissing_heart <br>
 
-:right_arrow: [이모지 사이트 링크](https://www.webfx.com/tools/emoji-cheat-sheet/ "이모지") :left_arrow:
+:arrow_right: [이모지 사이트 링크](https://www.webfx.com/tools/emoji-cheat-sheet/ "이모지") :arrow_left:
 
 <br><br>
 
-## **[color 색상](#목차)**
+## **color 색상**
 
 ``` MARKDOWN
 font-color
@@ -522,3 +521,13 @@ background color
 <span style="background-color:#FFFFF0"> 노란형광펜 </span> <br>
 <span style="background-color:#F5F5F5"> 회색형광펜 </span> <br>
 <span style="background-color:#DCFFE4"> 초록형광펜 </span> <br>
+
+## 사이트 모음
+<br>
+
+- markdown 미리보기
+	- [stackedit](https://stackedit.io/app# , "stackedit")
+ 	- [jbt.github.io](https://jbt.github.io/markdown-editor/ , "jbt.github.io")
+
+- 이모지
+	-[webfx](https://www.webfx.com/tools/emoji-cheat-sheet/, "webfx")
