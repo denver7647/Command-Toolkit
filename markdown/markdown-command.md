@@ -1,4 +1,4 @@
-# markdown
+# MARKDOWN
 
 <br>
 
@@ -46,7 +46,7 @@
 <br>
 
 ## **[Headers 헤더](#목차)**
-#로 시작하는 텍스트로 h1, h2, h3, h4, h5, h6의 태그를 표현할 수 있습니다.
+\#로 시작하는 텍스트로 h1, h2, h3, h4, h5, h6의 태그를 표현할 수 있습니다.
 
 ``` MARKDOWN
 # This is H1
@@ -79,6 +79,8 @@ This is H1
 
 This is H2
 ---
+
+<br><br>
 
 ## **[Horizontal Rules 수평선](#목차)**
 
@@ -449,6 +451,8 @@ Left|Center|Right
 
 # **기타**
 
+<br>
+
 ## **[이모지](#목차)**
 **\: :** 사이에 이모지 관련 텍스트를 넣으면 사용 가능 <br>
 
@@ -463,6 +467,7 @@ Left|Center|Right
 :kissing_heart: : kissing_heart <br>
 
 :right_arrow: [이모지 사이트 링크](https://www.webfx.com/tools/emoji-cheat-sheet/ "이모지") :left_arrow:
+
 <br><br>
 
 ## **[color 색상](#목차)**
@@ -516,4 +521,3 @@ background color
 <span style="background-color:#FFFFF0"> 노란형광펜 </span> <br>
 <span style="background-color:#F5F5F5"> 회색형광펜 </span> <br>
 <span style="background-color:#DCFFE4"> 초록형광펜 </span> <br>
-
